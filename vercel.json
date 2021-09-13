@@ -2,7 +2,7 @@
   "version": 2,
   "builds": [
       {
-          "src": ".src/client/index.tsx",
+          "src": "./src/client/index.tsx",
           "use": "@vercel/node"
       }
   ],
